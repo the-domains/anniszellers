@@ -1,4 +1,4 @@
-name: anniszellers
+name: 'Annis & Zellers Pllc'
 favicon: null
 layout_spectrum: 0.7441127251368016
 typography_spectrum: 0.43305327952839434
@@ -22,7 +22,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.9958500766661018
+  brandStrength: 0.9375
   lightness: 0.2875897230114788
   saturation: 0.3846033315639943
   rhythmicContrast: 0.3770701864268631
